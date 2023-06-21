@@ -51,6 +51,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 #include "am_mcu_apollo.h"
+#include "am_mcu_apollo4b_info1.h"
 
 //*****************************************************************************
 //
